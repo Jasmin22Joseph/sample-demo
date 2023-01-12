@@ -6,3 +6,5 @@ testing the revert command
 
 Changing the conflicts 
 
+This line is adding for testing the revert command
+
