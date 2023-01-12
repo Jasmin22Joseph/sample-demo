@@ -3,3 +3,5 @@ This is the new file added in the simple-demo folder
 This is the test line of code
 
 testing the revert command
+
+Reverting the last commit
