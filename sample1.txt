@@ -4,4 +4,4 @@ This is the test line of code
 
 testing the revert command
 
-Reverting the last commit
+Changing the conflicts 
